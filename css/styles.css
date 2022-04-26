@@ -32,3 +32,17 @@ h1 {
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
 }
+
+.scope{
+  font-size: 0.7em;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.contact{
+  font-size: 0.6em;
+  padding-top: 20px;
+  padding-left: 20px;
+  line-height: 1.2em;
+  text-align: center;
+}
